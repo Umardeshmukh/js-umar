@@ -39,3 +39,15 @@ const myFunction = function(){
 console.log(typeof anotherId);
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
+// Reference (Non primitive)
+
+// Array, Objects, Functions
+ // Stack memory is used 
+// Heap memory is used in Non Primitive type.
+
+let myYoutubename = "UD11"
+let anothername = myYoutubename
+anothername = "Umar"
+console.log(anothername);
+let a = 280 /12
+console.log(a);
