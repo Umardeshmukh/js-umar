@@ -43,7 +43,7 @@
  
 
 // const addTwo = (num1,num2) => (num1+ num2) 
-// we we use parantheses no need to use return statement its called  implicit 
+// we we use parentheses no need to use return statement its called  implicit 
 //  console.log(addTwo (5,4));
  const addTwo = (num1,num2) => ({username:"umros"}) 
  console.log(addTwo (5,4));
